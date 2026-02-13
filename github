@@ -1,0 +1,18 @@
+  mkdir saurabh
+  300  cd saurabh/
+  301  ls
+  302  vi tesxt.txt
+  303  git init
+  304  ls
+  305  touch aa
+  306  ls
+  307  git add .
+  308  git status
+  309  git commit -m "first"
+  310  git branch -M main
+  311  git remote add origin https://github.com/Dinesh123400/lol
+  312  git remote -v
+  313  git pull origin main --allow-unrelated-histories
+  314  git push -u origin main
+  315  history
+
